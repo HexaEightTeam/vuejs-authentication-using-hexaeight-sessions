@@ -6,4 +6,6 @@ The component HexaEight.vue shows can be modified and adopted to suit your needs
 
 Remember to generate a Client ID using the Token server and update the App.vue code with the Client ID and Token Server URL 
 
-**This demo sample is part of a [this](https://github.com/HexaEightTeam/session-js-spa-https) repository**
+**This demo repository is part of [Hexaight Session For Single Page Apps and Websites using JavaScript Repository](https://github.com/HexaEightTeam/session-js-spa-https)**
+
+
