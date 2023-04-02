@@ -15,8 +15,8 @@ import { useRouter } from 'vue-router'
 const app = {
   data() {
     return {
-      clientid: "74F1A042EFFE87D8C7429F49DFCD5C417C5C07AB",
-      token_server_url: "https://login.anyemail.chat:8443",
+      clientid: "<ClientID>",
+      token_server_url: "<TokenServerURL>",
       isAuthenticated: false,
       hexaEightAuth: undefined,
     };
